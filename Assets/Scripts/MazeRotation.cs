@@ -11,7 +11,7 @@ public class MazeRotation : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Ilham Jago nemen cok!");
+        Debug.Log("Ilham Jago nemen cok! https://drive.google.com/drive/folders/1U2cePW9e071qyvexIVjvXx8f7nokbaE6");
     }
 
     // Update is called once per frame
